@@ -33,6 +33,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndstt&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
-- LinkedIn: [Natdanai Sutampawadee](https://www.linkedin.com/in/natdanai-sutampawadee-404b48324/)
-- Instagram: [__ndst](https://www.instagram.com/__ndst/)
-- Email: natdanai.sut@ku.th
+- ![image](https://img.shields.io/badge/Natdanai_Sutampawadee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- ![image](https://img.shields.io/badge/__ndst-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+- ![image](https://img.shields.io/badge/natdanai.sut@ku.th-D14836?style=for-the-badge&logo=gmail&logoColor=white)
