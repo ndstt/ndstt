@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on building an ETL data pipeline
-- 🌱 I’m currently learning Apache Airflow and Snowflake DB
+- 🌱 I’m currently learning Apache Airflow, Snowflake DB and machine learning.
 - 💬 Ask me about nothing
 - ⚡ Fun fact: il skibidi toilet
 
