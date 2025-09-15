@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building an ETL data pipeline
-- 🌱 I’m currently learning Apache Airflow, Snowflake DB and machine learning.
-- 💬 Ask me about nothing
-- ⚡ Fun fact: il skibidi toilet
+- 🔭 I’m currently interesting about building an ETL data pipeline
 
 ## 🛠️ Languages and Tools
 ![image](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
