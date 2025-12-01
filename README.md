@@ -31,4 +31,3 @@
 
 ## 🤝 Let's Connect!
 - [![image](https://img.shields.io/badge/Natdanai_Sutampawadee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natdanai-sutampawadee-404b48324/)
-- ![image](https://img.shields.io/badge/naddanai_turbo@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
