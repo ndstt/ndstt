@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently interesting about building an ETL data pipeline
+- 🔭 I’m currently interested in building an ETL data pipeline and CI/CD
 
 ## 🛠️ Languages and Tools
 ![image](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
