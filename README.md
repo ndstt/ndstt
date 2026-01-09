@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Natdanai (Turbo)
 
-I'm a **Data Engineer / Backend & Infrastructure Engineer** with hands-on experience
-building **large-scale data pipelines, distributed systems, and cloud-native deployments**.
+I'm a **Data Engineer with hands-on experience building **large-scale data pipelines, distributed systems, and cloud-native deployments**.
 
 I focus on **turning raw data into reliable analytical systems** and **deploying production-grade services** using modern data and infrastructure tooling.
 
